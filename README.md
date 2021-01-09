@@ -18,6 +18,7 @@ Here's my [Home Assistant](https://www.home-assistant.io) configuration. I hav
     - [Aqara Door and Window Sensor](https://www.aqara.com/us/door_and_window_sensor.html)
     - [Aqara Motion Sensor](https://www.aqara.com/us/motion_sensor.html)
     - [Aqara Water Leak Sensor](https://www.aqara.com/us/water_leak_sensor.html)
+    - [Xiaomi Mijia Light Sensor](https://www.aliexpress.com/i/4000469308605.html)
     - [Conbee II USB Zigbee Gateway](https://www.amazon.it/dp/B07PZ7ZHG5)
 - Sensors (WiFi)
     - [Shelly EM](https://shelly.cloud/products/shelly-em-smart-home-automation-device/)
