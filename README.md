@@ -7,6 +7,7 @@ Here's my [Home Assistant](https://www.home-assistant.io) configuration. I hav
 - [Plex media server](https://www.plex.tv/media-server-downloads) in a [LXC](https://linuxcontainers.org/lxc/introduction/) container
 - [Ubiquiti Unifi Network Controller](https://ui.com) in a [LXC](https://linuxcontainers.org/lxc/introduction/) container
 - [Pi-Hole](https://pi-hole.net) in a [LXC](https://linuxcontainers.org/lxc/introduction/) container
+- [Docker](https://www.docker.com) with [Traefik Reverse Proxy](https://traefik.io/traefik) in a Proxmox VE [VM](https://pve.proxmox.com/wiki/Qemu/KVM_Virtual_Machines)
 
 # Some of the devices and services that I use with HA
 - Networking
